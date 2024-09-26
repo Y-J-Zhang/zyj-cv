@@ -29,32 +29,28 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'zhangyj0720@163.com'
-    label: E-mail Me
+    label: zhangyj0720@163.com
   - icon: brands/google-scholar
-    url: https://twitter.com/GetResearchDev
+    url: https://scholar.google.com/citations?user=N1acLfgAAAAJ&hl=en
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://github.com/Y-J-Zhang?tab=repositories
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: 计算机科学与技术 工科硕士
+    institution: 天津大学
+    date_start: 2022-09-01
+    date_end: 2024-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      综合排名 **1/58**
+      获天津大学研究生**特等**学业奖学金、贝式计算奖学金、全国大学生算法设计与编程挑战赛金奖等奖励。
+    
+  - area: 给排水科学与工程 工科学士
+    institution: 四川大学
+    date_start: 2018-09-01
+    date_end: 2022-06-30
     summary: |
-      GPA: 3.8/4.0
+      成绩排名 **1/22**
+      获国家奖学金、国家励志奖学金、
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
