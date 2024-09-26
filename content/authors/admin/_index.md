@@ -62,63 +62,24 @@ work:
     date_start: 2024-06-17
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      工作内容:
+      - **视频多模态大模型异常检测任务微调**  调研视频-语言多模态大模型在视频异常检测的应用，并利用现有业务数据验证相关方法在交通事故检测的有效性并微调，探索优化方案。
+      - **交通大模型泛化性探索**  探索如何提高基于Transformer的目标检测大模型在不同城市业务数据上的泛化效果。本人负责方案制定、评测集构建、模型训练、数据增强方案探索等内容。所提方案在相应评测集上mAP50提高**0.7%**至**11.0%**。
+      - **车辆多目标分类**  利用现有业务数据迭代优化前期车辆分类模型，模型可识别车辆类型、颜色、品牌，平均精度达**95.68%**。主要工作内容包含需求对齐、评测集构建、数据清洗、冷启动等内容。
+  - position: 算法实习生
+    company_name: 联想集团有限公司
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-03-17
+    date_end: 2024-06-12
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     工作内容:
+      - **大模型语义分割结果细化**  调研并复现现有SOTA语义/实例分割模型，使用后处理方法利用大模型输出的粗分割结果，结合图像的多尺度上下文语义信息对分割结果进行细化。相应研究成果投稿至ACM MM。
+      - **多模态大模型在复杂场景下的文档定位** 提出了一个新数据集，在复杂场景下分割文档。涉及多模态大模型的轻量化以及语义分割等研究内容，本人负责调研现有多模态大模型效果并探索模型轻量化方案。
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
