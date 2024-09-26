@@ -92,48 +92,7 @@ awards:
     awarder: 2024 IEEE International Conference on Acoustics, Speech and Signal Processing
     summary: |
       问题设定为**半监督域泛化**，论文使用图像和特征级别的风格增强丰富训练样本的分布空间，并从域泛化理论研究出发，显式**约束特征域不变性**以提高模型泛化能力。此外，论文还提出新的**样本选择策略**为模型选择高质量有标签样本进行训练。所提方法在域泛化数据集PACS 和OfficeHome 上实现了SOTA 效果，并扩展了现有研究的应用场景。
-  - title: Enhanced removal of polyethylene terephthalate microplastics through polyaluminum chloride coagulation with three typical coagulant aids
-    url: ''
-    certificate_url: ''
-    date: '2021-08-21'
-    awarder: Science of the Total Environment
-    summary: |
-      Given the discovery and hazard of microplastics in freshwater environments, the removal of microplastics in drinking water deserves more attention. Nevertheless, in the light of existing literature, the effectiveness of conventional coagulation on microplastics removal is insufficient. Hence, enhanced coagulation is worth being explored. This study investigated the improving performance of anionic polyacrylamide (PAM), sodium alginate (SA), and activated silicic acid (ASA) when using poly‑aluminum chloride (PAC) to remove polyethylene terephthalate (PET) microplastics...
-  - title: Defluorination and regeneration study of lanthanum-doped sewage sludge-based activated carbon
-    url: ''
-    certificate_url: ''
-    date: '2021-04-21'
-    awarder: Journal of Environmental Chemical Engineering
-    summary: |
-      Lanthanum-doped sewage sludge-based activated carbon (AC-La), an environment-friendly material, can effectively remove fluoride ions from water. Regeneration performance of AC-La was mainly studied in this work. The results showed that compared to other elution methods, excellent regeneration performance of AC-La was achieved by NaOH. AC-La treated with 0.5 mol/L NaOH showed a high desorption rate (> 98.5%) and fluorine removal efficiency (ca.60%) again....
-  - title: A comprehensive study on the performance and mechanism of microplastics removal by enhanced coagulation methods
-    url: ''
-    certificate_url: ''
-    date: '2023-08-21'
-    awarder: Journal of Water Process Engineering
-    summary: |
-      Drinking water is probably the main route for microplastics to enter the human body...
-  - title: Removal of polystyrene nanoplastics from water by CuNi carbon material: the role of adsorption
-    url: ''
-    certificate_url: ''
-    date: '2022-08-21'
-    awarder: Science of the Total Environment
-    summary: |
-      Nanoplastics have attracted wide attention worldwide as a new potentially threatening pollutant, and they can cause harm to the organisms and pose threat to the water environment...
-  - title: Mechanisms of polystyrene nanoplastics adsorption onto activated carbon modified by ZnCl2
-    url: ''
-    certificate_url: ''
-    date: '2023-08-21'
-    awarder: Science of the Total Environment
-    summary: |
-      In this study, the adsorption capacity of activated carbon was enhanced after zinc chloride activation. The effects of pore filling, n-π and π-π interaction and electrostatic interaction on the adsorption of polystyrene nanoplastics (PSNPs) by activated carbon were determined by SEM, BET, Raman spectrum, FTIR and surface Zeta potential....
-  - title: Chitosan enhances poly aluminum chloride flocculation system removal of microplastics: effective, stable, and pollution free
-    url: ''
-    certificate_url: ''
-    date: '2023-05-21'
-    awarder: Journal of Water Process Engineering
-    summary: |
-      Microplastics are a new type of pollutant that may enter the human body through drinking water so the effective removal of microplastics in water is of great significance...
+  
 ---
 
 我硕士期间的研究方向主要为**深度学习泛化**，求职意向为：搜索/推荐/广告/多模态算法
