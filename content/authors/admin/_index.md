@@ -106,6 +106,13 @@ awards:
     awarder: Journal of Environmental Chemical Engineering
     summary: |
       Lanthanum-doped sewage sludge-based activated carbon (AC-La), an environment-friendly material, can effectively remove fluoride ions from water. Regeneration performance of AC-La was mainly studied in this work. The results showed that compared to other elution methods, excellent regeneration performance of AC-La was achieved by NaOH. AC-La treated with 0.5 mol/L NaOH showed a high desorption rate (> 98.5%) and fluorine removal efficiency (ca.60%) again....
+  - title: A comprehensive study on the performance and mechanism of microplastics removal by enhanced coagulation methods
+    url: ''
+    certificate_url: ''
+    date: '2023-08-21'
+    awarder: Journal of Water Process Engineering
+    summary: |
+      Drinking water is probably the main route for microplastics to enter the human body....
 
 ---
 
