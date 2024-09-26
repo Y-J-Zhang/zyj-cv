@@ -16,7 +16,7 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
+        text: 下载我的个人简历
         url: uploads/resume.pdf
     design:
       banner:
