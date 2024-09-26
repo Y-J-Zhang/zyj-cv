@@ -17,7 +17,7 @@ status:
 # superuser: true
 
 # Role/position/tagline
-role: 2025届校招
+# role: 2025届校招
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -54,10 +54,11 @@ education:
 
      
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
+  - position: 算法实习生
+    company_name: 百度在线网络技术（北京）有限公司
+    company_url: 'www.baidu.com'
+    company_logo: '![image](https://github.com/user-attachments/assets/1864f961-6c98-4d6e-bbe7-60dbf54cc422)
+'
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
@@ -151,4 +152,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+我硕士期间的研究方向主要为深度学习泛化，求职意向为：搜索/推荐/广告/多模态算法
