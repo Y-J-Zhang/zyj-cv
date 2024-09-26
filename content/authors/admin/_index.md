@@ -113,13 +113,6 @@ awards:
     awarder: Journal of Water Process Engineering
     summary: |
       Drinking water is probably the main route for microplastics to enter the human body....
-  - title: Removal of polystyrene nanoplastics from water by CuNi carbon material: the role of adsorption
-    url: ''
-    certificate_url: ''
-    date: '2022-08-21'
-    awarder: Science of the Total Environment
-    summary: |
-      Nanoplastics have attracted wide attention worldwide as a new potentially threatening pollutant, and they can cause harm to the organisms and pose threat to the water environment...
 
 ---
 
