@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhang Yujian
+title: 张宇健
 
 # Name pronunciation (optional)
 # name_pronunciation: Yujian Zhang
@@ -14,14 +14,14 @@ status:
   icon: ❤️
 
 # Is this the primary user of the site?
-superuser: true
+# superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: 2025届校招
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Tianjin University
+  - name: 天津大学
     url: http://www.tju.edu.cn/index.htm
 
 # Social network links
@@ -50,23 +50,9 @@ education:
     date_end: 2022-06-30
     summary: |
       成绩排名 **1/22**
-      获国家奖学金、国家励志奖学金、
+      获**国家奖学金**、**国家励志奖学金**、**四川省优秀毕业生**、优秀共青团干部
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
