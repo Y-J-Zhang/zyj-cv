@@ -36,5 +36,5 @@ sections:
   - block: awards
     content:
       title: Awards
-        username: admin
+      username: admin
 ---
