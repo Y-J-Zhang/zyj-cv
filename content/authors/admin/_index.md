@@ -112,7 +112,7 @@ awards:
     date: '2023-08-21'
     awarder: Journal of Water Process Engineering
     summary: |
-      Drinking water is probably the main route for microplastics (MPs) to enter the human body. However, due to factors such as density and volume, MPs are difficult to remove during coagulation. Accordingly, the purpose of this paper is to study the removal efficiency of MPs in water supply treatment. Parameter optimization during coagulation, as well as the pre-oxidation process and addition of coagulant aids were investigated to explore the sedimentation efficiency of polyethylene terephthalate (PET) and polystyrene (PS) MPs....
+      Drinking water is probably the main route for microplastics to enter the human body. However, due to factors such as density and volume, MPs are difficult to remove during coagulation. Accordingly, the purpose of this paper is to study the removal efficiency of MPs in water supply treatment. Parameter optimization during coagulation, as well as the pre-oxidation process and addition of coagulant aids were investigated to explore the sedimentation efficiency of polyethylene terephthalate (PET) and polystyrene (PS) MPs....
   - title: Removal of polystyrene nanoplastics from water by CuNi carbon material: the role of adsorption
     url: ''
     certificate_url: ''
