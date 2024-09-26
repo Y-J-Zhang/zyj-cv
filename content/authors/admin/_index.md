@@ -89,20 +89,16 @@ awards:
   - title: Multi-Level Augmentation Consistency Learning and Sample Selection for Semi-Supervised Domain Generalization
     url: ''
     date: '2024-04-01'
-    awarder: icassp
+    awarder: 2024 IEEE International Conference on Acoustics, Speech and Signal Processing
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+      Semi-supervised domain generalization (SSDG) aims to build a domain-generalized model using partially labeled data from source domains. Mainstream SSDG methods follow the augmentation consistency in FixMatch. However, the extraction of domain-invariant features may be challenging due to the absence of feature-based operations, further leading to overfitting of the classifier. To this end, we propose Multi-level Augmentation Consistency Learning (MACMatch), which improves the generalization of feature extractor and classifier through feature-based augmentation consistency. On the other hand, existing methods assume labeled data are class-balanced and domain-balanced, which is easily violated in practice. Based on this, we introduce Representativity and Diversity-based Sample Selection (RDSS), which models data as graphs to evaluate reasonable samples for labeling, relaxing the assumption …
+  - title: Enhanced removal of polyethylene terephthalate microplastics through polyaluminum chloride coagulation with three typical coagulant aids
     url: ''
     certificate_url: ''
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+    date: '2021-08-21'
+    awarder: Science of the Total Environment
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Given the discovery and hazard of microplastics in freshwater environments, the removal of microplastics in drinking water deserves more attention. Nevertheless, in the light of existing literature, the effectiveness of conventional coagulation on microplastics removal is insufficient. Hence, enhanced coagulation is worth being explored. This study investigated the improving performance of anionic polyacrylamide (PAM), sodium alginate (SA), and activated silicic acid (ASA) when using poly‑aluminum chloride (PAC) to remove polyethylene terephthalate (PET) microplastics. The experimental results showed that ASA had the highest removal efficiency (54.70%) under conventional dosage, while PAM achieved the best removal effect (91.45%) at high dosage. Mechanism of coagulation was studied by scanning electron microscope (SEM), Fourier transform infrared spectroscope (FTIR), X-ray photoelectron …
 ---
 
 我硕士期间的研究方向主要为**深度学习泛化**，求职意向为：搜索/推荐/广告/多模态算法
