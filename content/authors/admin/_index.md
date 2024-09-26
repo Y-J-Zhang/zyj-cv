@@ -98,7 +98,7 @@ awards:
     date: '2021-08-21'
     awarder: Science of the Total Environment
     summary: |
-      Given the discovery and hazard of microplastics in freshwater environments, the removal of microplastics in drinking water deserves more attention. Nevertheless, in the light of existing literature, the effectiveness of conventional coagulation on microplastics removal is insufficient. Hence, enhanced coagulation is worth being explored. This study investigated the improving performance of anionic polyacrylamide (PAM), sodium alginate (SA), and activated silicic acid (ASA) when using poly‑aluminum chloride (PAC) to remove polyethylene terephthalate (PET) microplastics...
+      Given the discovery and hazard of microplastics in freshwater environments, the removal of microplastics in drinking water deserves more attention. Nevertheless, in the light of existing literature, the effectiveness of conventional coagulation on microplastics removal is insufficient. Hence, enhanced coagulation is worth being explored...
   - title: Defluorination and regeneration study of lanthanum-doped sewage sludge-based activated carbon
     url: ''
     certificate_url: ''
