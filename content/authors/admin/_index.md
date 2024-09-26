@@ -99,6 +99,13 @@ awards:
     awarder: Science of the Total Environment
     summary: |
       Given the discovery and hazard of microplastics in freshwater environments, the removal of microplastics in drinking water deserves more attention. Nevertheless, in the light of existing literature, the effectiveness of conventional coagulation on microplastics removal is insufficient. Hence, enhanced coagulation is worth being explored. This study investigated the improving performance of anionic polyacrylamide (PAM), sodium alginate (SA), and activated silicic acid (ASA) when using poly‑aluminum chloride (PAC) to remove polyethylene terephthalate (PET) microplastics...
+  - title: Defluorination and regeneration study of lanthanum-doped sewage sludge-based activated carbon
+    url: ''
+    certificate_url: ''
+    date: '2021-04-21'
+    awarder: Journal of Environmental Chemical Engineering
+    summary: |
+      Lanthanum-doped sewage sludge-based activated carbon (AC-La), an environment-friendly material, can effectively remove fluoride ions from water. Regeneration performance of AC-La was mainly studied in this work. The results showed that compared to other elution methods, excellent regeneration performance of AC-La was achieved by NaOH. AC-La treated with 0.5 mol/L NaOH showed a high desorption rate (> 98.5%) and fluorine removal efficiency (ca.60%) again....
 
 ---
 
