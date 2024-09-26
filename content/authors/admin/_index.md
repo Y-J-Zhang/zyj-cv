@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 张宇健
+title: Zhang Yujian
 
 # Name pronunciation (optional)
-name_pronunciation: Yujian Zhang
+# name_pronunciation: Yujian Zhang
 
 # Full name (for SEO)
 first_name: Yujian
@@ -28,9 +28,9 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'zhangyj0720@163.com'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/google-scholar
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/gcushen
