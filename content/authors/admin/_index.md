@@ -113,7 +113,13 @@ awards:
     awarder: Journal of Water Process Engineering
     summary: |
       Drinking water is probably the main route for microplastics to enter the human body....
-
+ - title: 深度学习与水质净化交叉研究论文（非一作）
+    url: ''
+    certificate_url: ''
+    date: '2023-08-21'
+    awarder: SCI论文
+    summary: |
+      使用经典机器学习方法（如线性回归、决策树、SVM等）对水处理实验结果进行数据分析与知识挖掘，目前谷歌学术被引**240次**。
 ---
 
 我硕士期间的研究方向主要为**深度学习泛化**，求职意向为：搜索/推荐/广告/多模态算法
