@@ -16,7 +16,7 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: 下载简历
+        text: Download Résumé
         url: uploads/resume.pdf
     design:
       banner:
@@ -32,9 +32,17 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: true
-  - block: publications
+      is_education_first: false
+  - block: skills
     content:
-      title: Publications
+      title: Skills & Hobbies
+      username: admin
+  - block: awards
+    content:
+      title: Awards
+      username: admin
+  - block: languages
+    content:
+      title: Languages
       username: admin
 ---
