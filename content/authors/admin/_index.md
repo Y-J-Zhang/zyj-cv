@@ -88,7 +88,7 @@ work:
 awards:
   - title: Multi-Level Augmentation Consistency Learning and Sample Selection for Semi-Supervised Domain Generalization
     url: ''
-    date: '2024-04'
+    date: '2024-04-01'
     awarder: icassp
     summary: |
       Learned:
