@@ -113,7 +113,27 @@ awards:
     awarder: Journal of Water Process Engineering
     summary: |
       Drinking water is probably the main route for microplastics to enter the human body....
-
+  - title: Removal of polystyrene nanoplastics from water by CuNi carbon material: the role of adsorption
+    url: ''
+    certificate_url: ''
+    date: '2022-08-21'
+    awarder: Science of the Total Environment
+    summary: |
+      Nanoplastics have attracted wide attention worldwide as a new potentially threatening pollutant, and they can cause harm to the organisms and pose threat to the water environment...
+  - title: Mechanisms of polystyrene nanoplastics adsorption onto activated carbon modified by ZnCl2
+    url: ''
+    certificate_url: ''
+    date: '2023-08-21'
+    awarder: Science of the Total Environment
+    summary: |
+      In this study, the adsorption capacity of activated carbon was enhanced after zinc chloride activation. The effects of pore filling, n-π and π-π interaction and electrostatic interaction on the adsorption of polystyrene nanoplastics (PSNPs) by activated carbon were determined by SEM, BET, Raman spectrum, FTIR and surface Zeta potential....
+  - title: Chitosan enhances poly aluminum chloride flocculation system removal of microplastics: effective, stable, and pollution free
+    url: ''
+    certificate_url: ''
+    date: '2023-05-21'
+    awarder: Journal of Water Process Engineering
+    summary: |
+      Microplastics are a new type of pollutant that may enter the human body through drinking water so the effective removal of microplastics in water is of great significance...
 ---
 
 我硕士期间的研究方向主要为**深度学习泛化**，求职意向为：搜索/推荐/广告/多模态算法
