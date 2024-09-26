@@ -86,11 +86,10 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+  - title: Multi-Level Augmentation Consistency Learning and Sample Selection for Semi-Supervised Domain Generalization
+    url: ''
+    date: '2024-04'
+    awarder: icassp
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
