@@ -22,7 +22,7 @@ last_name: Zhang
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: 天津大学
-    url: http://www.tju.edu.cn/index.htm
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -56,7 +56,7 @@ education:
 work:
   - position: 算法实习生
     company_name: 百度在线网络技术（北京）有限公司
-    company_url: https://www.baidu.com
+    company_url: ''
     company_logo: ''
 
     date_start: 2024-06-17
