@@ -57,7 +57,7 @@ work:
   - position: 算法实习生
     company_name: 百度在线网络技术（北京）有限公司
     company_url: https://www.baidu.com
-    company_logo: ![image](https://github.com/user-attachments/assets/2ae79ae4-f0ab-406f-8f10-6785fc570254)
+    company_logo: ''
 
     date_start: 2024-06-17
     date_end: ''
