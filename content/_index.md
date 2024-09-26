@@ -34,14 +34,13 @@ sections:
       # Education or Experience section first?
       is_education_first: true
   - block: collection
-    id: featured
     content:
-      title: Publications
+      title: Recent Publications
+      text: ""
       filters:
         folders:
           - publication
-        featured_only: false
+        exclude_featured: false
     design:
-      columns: '2'
-      view: card
+      view: citation
 ---
