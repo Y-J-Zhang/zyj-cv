@@ -35,7 +35,7 @@ sections:
       is_education_first: true
   - block: awards
     content:
-      title: Awards
+      title: Publications
       username: admin
   - block: languages
     content:
