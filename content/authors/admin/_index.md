@@ -89,7 +89,7 @@ awards:
   - title: Multi-Level Augmentation Consistency Learning and Sample Selection for Semi-Supervised Domain Generalization
     url: ''
     date: '2024-04-01'
-    awarder: 2024 IEEE International Conference on Acoustics, Speech and Signal Processing
+    awarder: IEEE International Conference on Acoustics, Speech and Signal Processing
     summary: |
       问题设定为**半监督域泛化**，论文使用图像和特征级别的风格增强丰富训练样本的分布空间，并从域泛化理论研究出发，显式**约束特征域不变性**以提高模型泛化能力。此外，论文还提出新的**样本选择策略**为模型选择高质量有标签样本进行训练。所提方法在域泛化数据集PACS 和OfficeHome 上实现了SOTA 效果，并扩展了现有研究的应用场景。
   - title: Enhanced removal of polyethylene terephthalate microplastics through polyaluminum chloride coagulation with three typical coagulant aids
