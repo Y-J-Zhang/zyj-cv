@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'zhangyj0720@163.com'
+    url: zhangyj0720@163.com
     label: zhangyj0720@163.com
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=N1acLfgAAAAJ&hl=en
