@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张宇健
+title: 张宇健 Yujian Zhang
 
 # Name pronunciation (optional)
 # name_pronunciation: Yujian Zhang
@@ -21,7 +21,7 @@ last_name: Zhang
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 天津大学
+  - name: 天津大学 (Tianjin University)
     url: ''
 
 # Social network links
@@ -36,20 +36,20 @@ profiles:
     url: https://github.com/Y-J-Zhang?tab=repositories
 
 education:
-  - area: 计算机科学与技术 工科硕士
-    institution: 天津大学
+  - area: 计算机科学与技术 工科硕士 (Master of Computer Science and Technology)
+    institution: 天津大学 (Tianjin University)
     date_start: 2022-09-01
     date_end: 2024-06-30
     summary: |
-      综合排名 **1/58**
+      综合排名 (Rank) **1/58**
       获天津大学研究生**特等**学业奖学金、贝式计算奖学金、全国大学生算法设计与编程挑战赛金奖等奖励。
     
-  - area: 给排水科学与工程 工科学士
-    institution: 四川大学
+  - area: 给排水科学与工程 工科学士 (Bachelor of  Water Science and Engineering)
+    institution: 四川大学 (Sichuan University)
     date_start: 2018-09-01
     date_end: 2022-06-30
     summary: |
-      成绩排名 **1/22**
+      成绩排名 (Rank) **1/22**
       获**国家奖学金**、**国家励志奖学金**、**四川省优秀毕业生**、优秀共青团干部
 
      
@@ -116,4 +116,5 @@ awards:
 
 ---
 
-我硕士期间的研究方向主要为**深度学习泛化**，期望方向为：广告/搜索/推荐 or 多模态算法
+我硕士期间的研究方向主要为**深度学习泛化**，感兴趣的方向：机器学习（广告/搜索/推荐） or 多模态大模型
+My research mainly focuses on **Deep Learning Generalization** and I am interested in: machine learning (advertising/search/recommendations) or multimodal large models
