@@ -117,4 +117,5 @@ awards:
 ---
 
 我硕士期间的研究方向主要为**深度学习泛化**，感兴趣的方向：机器学习（广告/搜索/推荐） or 多模态大模型
+
 My research mainly focuses on **Deep Learning Generalization** and I am interested in: machine learning (advertising/search/recommendations) or multimodal large models
