@@ -36,7 +36,7 @@ profiles:
     url: https://github.com/Y-J-Zhang?tab=repositories
 
 education:
-  - area: 计算机科学与技术 工科硕士 (Master of Computer Science and Technology)
+  - area: 计算机科学与技术 硕士 (Master of Computer Science and Technology)
     institution: 天津大学 (Tianjin University)
     date_start: 2022-09-01
     date_end: 2024-06-30
@@ -44,7 +44,7 @@ education:
       综合排名 (Rank) **1/58**
       获天津大学研究生**特等**学业奖学金、贝式计算奖学金、全国大学生算法设计与编程挑战赛金奖等奖励。
     
-  - area: 给排水科学与工程 工科学士 (Bachelor of  Water Science and Engineering)
+  - area: 给排水科学与工程 学士 (Bachelor of  Water Science and Engineering)
     institution: 四川大学 (Sichuan University)
     date_start: 2018-09-01
     date_end: 2022-06-30
