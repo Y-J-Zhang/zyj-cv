@@ -30,7 +30,10 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: floating-theme-toggler
+    blox: navbar
+    fixed_to_top: true
+    logo:
+      text: Yujian Zhang
 
 # Site footer
 footer:

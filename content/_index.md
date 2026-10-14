@@ -19,6 +19,8 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
+      spacing:
+        padding: ['0', '0', '4rem', '0']
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
         filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
@@ -29,12 +31,17 @@ sections:
     content:
       username: admin
     design:
+      spacing:
+        padding: ['4rem', '0', '0', '0']
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
   - block: awards
     content:
-      title: Selected Publications
+      title: Publications
       username: admin
+    design:
+      spacing:
+        padding: ['0', '0', '4rem', '0']
 ---

@@ -1,15 +1,18 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-  #     desired widget in your `content/home/` folder.
-  #   The weight parameter defines the order that the links will appear in.
+# Homepage navigation and useful external links.
 
 main:
-  - name: Home
-    url: /
+  - name: Overview
+    url: /#section-resume-biography
     weight: 10
+  - name: Education & Experience
+    url: /#section-resume-experience
+    weight: 20
+  - name: Publications
+    url: /#section-resume-awards
+    weight: 30
   - name: CV
     url: /uploads/resume.pdf
-    weight: 20
+    weight: 40
   - name: Google Scholar
     url: https://scholar.google.com/citations?user=N1acLfgAAAAJ&hl=en
-    weight: 30
+    weight: 50
