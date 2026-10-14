@@ -5,8 +5,8 @@ Source for [zhangyj720.netlify.app](https://zhangyj720.netlify.app/), built with
 ## Updating the site
 
 - Biography, education, experience, and selected publications: `content/authors/admin/_index.md`
-- Homepage layout and CV button: `content/_index.md`
-- Downloadable CV: `static/uploads/resume.pdf`
+- Homepage layout and resume button: `content/_index.md`
+- Downloadable resume: `static/uploads/resume.pdf`
 - Site title, navigation, and metadata: `config/_default/`
 
 Netlify builds the `main` branch with Hugo 0.126.3, as configured in `netlify.toml`.
