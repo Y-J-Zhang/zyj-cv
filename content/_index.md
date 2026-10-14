@@ -16,7 +16,7 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: 我的个人简历 (CV of mine)
+        text: 下载简历 / Download CV
         url: uploads/resume.pdf
     design:
       banner:
@@ -24,7 +24,7 @@ sections:
         filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'text-align: left; font-size: 1rem; line-height: 1.75;'
   - block: experience
     content:
       username: admin
@@ -35,6 +35,6 @@ sections:
       is_education_first: true
   - block: awards
     content:
-      title: Publications
+      title: Selected Publications
       username: admin
 ---

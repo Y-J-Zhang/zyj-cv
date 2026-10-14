@@ -1,0 +1,7 @@
+#section-resume-biography .bio-text {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 56rem;
+  margin-inline: auto;
+  padding-inline: 1.25rem;
+}

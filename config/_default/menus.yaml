@@ -7,9 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Blog
-    url: blog/
+  - name: CV
+    url: /uploads/resume.pdf
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Google Scholar
+    url: https://scholar.google.com/citations?user=N1acLfgAAAAJ&hl=en
     weight: 30
